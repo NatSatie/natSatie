@@ -1,4 +1,4 @@
-![capa github](https://github.com/natSatie/natSatie/images/Capa_github.png)  
+![capa github](https://github.com/NatSatie/natSatie/blob/master/images/Capa_github.png)  
 
 
 <center>
