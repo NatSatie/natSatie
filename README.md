@@ -17,6 +17,8 @@ Esse é o perfil da Natália Satie, sou aluna de graduação em Ciência da Comp
   <li> <img src="images\skills\angular.png" width="16"></img> Angular </li>
   <li> <img src="images\skills\javascript.png" width="16"></img> Javascript </li>
   <li> <img src="images\skills\react.png" width="16"></img> React.js </li>
+  <li> <b>Programação: </b> C++, Python </li>
+  <li> <b>Bônus (Design): </b> Adobe Photoshop, Adobe Illustrator, Affinity Designer e Affinity Photo </li>
 </ul>
 
 <h2> Onde me encontrar? </h2>
@@ -32,15 +34,15 @@ Esse é o perfil da Natália Satie, sou aluna de graduação em Ciência da Comp
 <h2> Hobbies </h2>
 
 <ul>
-  <li> <img src="images\hobbies\zeldaFan.png" width="16"></img> The Legend of Zelda </li>
-  <li> <img src="images\hobbies\pokemonFan.png" width="16"></img> Pokemon </li>
+  <li> <img src="images\hobbies\book.png" width="16"></img> Adoro ler </li>
+  <li> <img src="images\hobbies\pokemonFan.png" width="16"></img> <img src="images\hobbies\zeldaFan.png" width="16"></img> Adoro jogos da Nintendo, especialmente da franquia The Legend of Zelda e Pokémon </li>
   <li> <img src="images\hobbies\narutoFan.jpg" width="16"></img> Já li alguns mangás da Shonen Jump, como Naruto, Demon Slayer, Jujutsu Kaisen, My Hero Academia </li>
   <li> <img src="images\hobbies\anime.png" width="16"></img> Vários outros animes Erased, Violet Evergarden, Toradora, Beastars e outros </li>
-  <li> <img src="images\hobbies\rpgGamer.png" width="16"></img> Mais milhares de RPGs e JRPGs </li>
+  <li> <img src="images\hobbies\rpgGamer.png" width="16"></img> Mais milhares de RPGs e JRPGs (Divinity Original sin, Baldur's Gate, Final Fantasy 7, Undertale e OMORI) </li>
 </ul>
 
-<h2> Gostou do Perfil? Aprenda a fazer o seu também! </h2>
-Segue o <a href="https://dev.to/dii_lua/github-profile-como-fazer-54o0"> tutorial da dii_lua aqui</a> !
+<h2> Gostou de como está o perfil? Faça o seu também! </h2>
+Segue o <a href="https://dev.to/dii_lua/github-profile-como-fazer-54o0"> tutorial da dii_lua aqui</a>!
 
 
 
