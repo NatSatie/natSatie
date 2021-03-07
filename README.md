@@ -20,13 +20,27 @@ Esse é o perfil da Natália Satie, sou aluna de graduação em Ciência da Comp
 </ul>
 
 <h2> Onde me encontrar? </h2>
-(Em breve)
+<ul>
+  <li> <img src="images\socialMedia\twitter.png" width="16"></img> <a href="https://twitter.com/satie_sann"> Twitter </a> </li>
+  <li> <img src="images\socialMedia\devto.png" width="16"></img> <a href="https://dev.to/satie_sann"> Dev.to </a></li>
+  <li> <img src="images\socialMedia\linkedin.png" width="16"></img> <a href="https://www.linkedin.com/in/natalia-satie/"> LinkedIn </a></li>
+  <li> <img src="images\socialMedia\stackoverflow.png"  width="16"></img> <a href="https://stackexchange.com/users/13125964/nat%c3%a1lia-satie"> StackOverflow </a></li>
+  <li> <img src="images\socialMedia\instagram.png"  width="16"></img> <a href="https://www.instagram.com/satie_sann/"> Instagram </a> </li>
+  <li> <img src="images\socialMedia\behance.png" width="16"></img> <a href="https://www.behance.net/satie_sann/"> Behance </a> </li>
+</ul>
 
-<h2> Curiosidades </h2>
-(Em breve)
+<h2> Hobbies </h2>
+
+<ul>
+  <li> <img src="images\hobbies\zeldaFan.png" width="16"></img> The Legend of Zelda </li>
+  <li> <img src="images\hobbies\pokemonFan.png" width="16"></img> Pokemon </li>
+  <li> <img src="images\hobbies\narutoFan.jpg" width="16"></img> Já li alguns mangás da Shonen Jump, como Naruto, Demon Slayer, Jujutsu Kaisen, My Hero Academia </li>
+  <li> <img src="images\hobbies\anime.png" width="16"></img> Vários outros animes Erased, Violet Evergarden, Toradora, Beastars e outros </li>
+  <li> <img src="images\hobbies\rpgGamer.png" width="16"></img> Mais milhares de RPGs e JRPGs </li>
+</ul>
 
 <h2> Gostou do Perfil? Aprenda a fazer o seu também! </h2>
-Segue o [tutorial aqui](https://dev.to/dii_lua/github-profile-como-fazer-54o0) 
+Segue o <a href="https://dev.to/dii_lua/github-profile-como-fazer-54o0"> tutorial da dii_lua aqui</a> !
 
 
 
