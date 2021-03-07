@@ -31,7 +31,7 @@ Esse é o perfil da Natália Satie, sou aluna de graduação em Ciência da Comp
   <li> <img src="images\socialMedia\behance.png" width="16"></img> <a href="https://www.behance.net/satie_sann/"> Behance </a> </li>
 </ul>
 
-<h2> Hobbies </h2>
+<h2> Hobbies e Interesses </h2>
 
 <ul>
   <li> <img src="images\hobbies\book.png" width="16"></img> Adoro ler </li>
